@@ -1,0 +1,5 @@
+(c) Donald Leung.  All rights reserved.
+NO ONE CAN REPRODUCE, DISTRIBUTE, USE OR SELL ANY WIDGETS (AND ANY CONTENT IN GENERAL) THAT ARE PRESENT IN THIS FOLDER/DIRECTORY (http://donaldkellett.github.io/widgets) WITHOUT THE EXPLICIT PERMISSION OF DONALD LEUNG.  EVEN IF YOU HAVE ASKED FOR PERMISSION, YOU MUST CREDIT DONALD LEUNG AND PROVIDE A LINK TO http://donaldkellett.github.io UNLESS OTHERWISE NOTIFIED.
+The people/organisations/webpages currently exempted from this license are:
+http://hendersonbiology.github.io
+Harry Streatfield (http://harrystreatfield.com & http://harrystreatfield.github.io)
